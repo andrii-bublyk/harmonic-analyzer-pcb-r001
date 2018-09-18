@@ -1,0 +1,34 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~harmonicAnalyzerProject_r001.PrjPCB|ReportField=ProjectFullPath~D:\freelance\harmonicAnalyzer\design\harmonicAnalyzerPcbDesign_r001\harmonicAnalyzerProject_r001.PrjPCB|ReportField=Title~Bill of Materials For Project [harmonicAnalyzerProject_r001.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~9:15:15 PM|ReportField=ReportDate~9/5/2018|ReportField=ReportDateTime~9/5/2018 9:15:15 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~63|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~9/5/2018|ReportField=CurrentTime~9:13:59 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\freelance\harmonicAnalyzer\design\harmonicAnalyzerPcbDesign_r001\harmonicAnalyzer.SchDoc|ReportField=DocumentName~harmonicAnalyzer.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~9/2/2018|ReportField=Organization~|ReportField=ProjectName~harmonicAnalyzerProject_r001.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~harmonicAnalyzerProject_r001.PrjPCB|ReportField=DataSourceFullPath~D:\freelance\harmonicAnalyzer\design\harmonicAnalyzerPcbDesign_r001\harmonicAnalyzerProject_r001.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Push Button|Push button|BTN1|PUSH BUTTON|Push Button|1
+2|100n|Capacitor|C1, C6, C9, C10, C16, C19, C20, C22, C23, C24|C_0603|C0603|10
+3|10u|Capacitor|C2, C5|C_0805|C0805|2
+4|22p|Capacitor|C3, C4, C25, C26|C_0603|C0603|4
+5|33n|Capacitor|C7, C8|C_0603|C0603|2
+6|100n|Capacitor|C11, C13|C_0805|C0805|2
+7|0.47u|Capacitor|C12, C14, C15|C_0805|C0805|3
+8|470u|Electrolit capasitor|C17, C18|R79|Electrolit|2
+9|1u|Capacitor|C21|C_0603|C0603|1
+10||Typical INFRARED GaAs LED|D1, D2, D4, D5, D6|LED_5mm|LED_5mm|5
+11|ADE7753|Data Acquisition ADC/DAC|IC1|SOP-20|ADE7753ARSZ|1
+12|ISO7741|Quad-Channel Digital Isolators|IC2|SOIC-16|ISO7741|1
+13|MAX3232|RS-232 Line Driver/Receiver With ±15-kV ESD Protection|IC3|SSOP-16|MAX3232|1
+14|AX3161|52KHz, 2A PWM Buck DC/DC Converter|IC4|TO263-5L|AX3161|1
+15|TES 1-0511|Isolated DC/DC Converter|IC5|TES 1-0511|TES 1-0511|1
+16|ATmega328|High Performance, Low Power Atmel AVR 8-Bit Microcontroller|IC6|TQFP-32|ATmega328|1
+17|#NAME?|Jumper Pins|JP1, JP2, JP3|PLS-2|JP-2|3
+18|120uH|Inductor|L1|L-12.3x12.3|L|1
+19|100k|Resistor|R1, R2|R_0603|R0603|2
+20|2.2k|Resistor|R3, R11, R12, R13|R_0603|R0603|4
+21|1M|Resistor|R4|R_0805|R0805|1
+22|810|Resistor|R5|R_0805|R0805|1
+23|10k|Resistor|R6, R14|R_0603|R0603|2
+24|6.8k|Resistor|R7|R_0603|R0603|1
+25|1.5k|Resistor|R8|R_0603|R0603|1
+26|4.7k|Resistor|R9|R_0603|R0603|1
+27|1M|Resistor|R15|R_0603|R0603|1
+28|30BQ040|High Performance Schottky Rectifier, 3.0 A|VD1|DO-214AB (SMC)|30BQ040|1
+29|RJ45|Outlet YH-55-05 8P8C 5521|X1|RJ45|RJ45|1
+30|DG-300-3|DG-300-3|X2|DG-300-5MM-3|DG-300-3|1
+31|PLD-6|PLD-6|X3|PLD-6|PLD-6|1
+32|PLS-4|PLS-4|X4|PLS-4|PLS-4|1
+33|8MHz|Quartz resonator|Z1, Z2|HC-49|XTAL|2
