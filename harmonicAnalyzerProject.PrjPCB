@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UPTRERWX
 
 [Document8]
-DocumentPath=harmonicAnalyzerProject_r001.OutJob
+DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=Job1.OutJob
+DocumentPath=harmonicAnalyzerProject.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
