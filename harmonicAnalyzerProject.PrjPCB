@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for harmonicAnalyzerProject
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -190,6 +190,98 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\Design Rule Check - harmonicAnalyzerPcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.1
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GML
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for harmonicAnalyzerProject\harmonicAnalyzerPcb.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -237,7 +329,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for harmonicAnalyzerProject
 
 [OutputGroup1]
 Name=Netlist Outputs
